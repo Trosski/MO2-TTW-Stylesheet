@@ -1,7 +1,7 @@
 # MO2-TTW-Stylesheet
 Tale of Two Wastelands themed MO2 stylesheet
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/oGzALeT" data-context="false" ><a href="//imgur.com/a/oGzALeT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![TTW-Stylesheet](https://github.com/Trosski/MO2-TTW-Stylesheet/assets/41554801/1ae8ee36-ad8e-43a4-ad1d-07de67221ff2)
 
 ## Installation
 
