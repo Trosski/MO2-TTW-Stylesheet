@@ -2,6 +2,10 @@
 Tale of Two Wastelands themed MO2 stylesheet
 
 ![TTW-Stylesheet](https://github.com/Trosski/MO2-TTW-Stylesheet/assets/41554801/1ae8ee36-ad8e-43a4-ad1d-07de67221ff2)
+ 
+or Alternate Green Text
+ 
+![Screenshot (120)](https://github.com/Trosski/MO2-TTW-Stylesheet/assets/41554801/efe0ea95-efe7-4140-98d5-c9502f0dc6d1)
 
 ## Installation
 
